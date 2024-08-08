@@ -1,14 +1,48 @@
-<h1 align="center">Hi there 👋 I am  Chaitanya Sheth</h1>
+<h1 align="center">Hello 👋, This is Chaitanya Sheth</h1>
+<h3 align="center">
+<!--      I am a full stack web developer, with a passion of blockchain development. Undergraduate in Computer Science Specialization in Cyber Physical Systems from VIT Chennai. -->
+<img src="https://readme-typing-svg.herokuapp.com?color=99D1CE&center=true&lines=Computer+Science+Undergrad;Problem+Solver;Full+Stack+Web+Developer;Databases">
+</h3>
 
 ## **About Me:**
 I am a Final Year Student at DA-IICT. I am well versed with Problem Solving and an enthusiast for open source contribution. I keenly want to explore the domain other than problem solving and competitive programming and want to contribute in real world projects. I am familiar with technologies like MERN stack and well versed with relational and non-relational databases.
 
-🔸Problem Solver🔸Databases🔸Full-Stack Web Developer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  </p>
+## 🧰 Languages and Tools
+<div align="justify">
+  <img src="https://skillicons.dev/icons?i=c" height="30" width="30" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" width="30" alt="C++" /
 
- <h2 align="center">📫 Reach out to me on</h2>
-<p align="center">
-    <a target="_blank"href="https://www.linkedin.com/in/chaitanya-sheth"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+  <img src="https://skillicons.dev/icons?i=html" height="30" width="30" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" width="30" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" width="30" alt="JS" />
+
+  <img src="https://skillicons.dev/icons?i=react" height="30" width="30" alt="ReactJS" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" width="30" alt="NodeJS" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" width="30" alt="ExpressJS" />
+  
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" width="30" alt="Bootstrap" />
+  
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" width="30" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" width="30" alt="PostgreSQL" />
+
+  <img src="https://skillicons.dev/icons?i=git" height="30" width="30" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" width="30" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" width="30" alt="Postman" />
+
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" width="30" alt="VSC" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" width="30" alt="StackOverflow" />  
+</div>
+
+## 👨🏻‍💻 Coding Profiles
+
+<a href="https://www.leetcode.com/Chaitanya_Sheth" target="_blank"><img src="https://shields.io/badge/-Leetcode-FF9E00?style=for-the-badge&logo=Leetcode&logoColor=070706" /></a>&nbsp;
+<a href="https://www.geeksforgeeks.org/user/chaitanya_28/" target="_blank"><img src="https://shields.io/badge/-Geeks%20For%20Geeks-008F3E?style=for-the-badge&logo=GeeksForGeeks&logoColor=FFF" /></a>&nbsp;
+<a href="https://www.hackerrank.com/profile/h202101030" target="_blank"><img src="https://shields.io/badge/-HackerRank-00BF5A?style=for-the-badge&logo=Hackerrank&logoColor=0D131F" /></a>&nbsp;
+
+## 🤝 Connect with me
+<a href="https://linkedin.com/in/chaitanya-sheth" target="_blank"><img src="https://shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+
+
+
+
