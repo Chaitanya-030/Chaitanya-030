@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I am  Chaitanya Sheth  <img src="" width="30"/></h1>
 
-<!--
-**Chaitanya-030/Chaitanya-030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **About Me:**
 
-Here are some ideas to get you started:
+Full-Stack Web Developer🔸Problem Solving🔸Open Source Contribution🔸Databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Github Stats:**
+
+<p align="center">
+  
+  ![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chitanya-030&count_private=true&show_icons=true&theme=vision-friendly-dark&line_height=40)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-030&hide=html,css&theme=vision-friendly-dark&count_private=true&line_height=40)
+
+</p>
+<p align = "center">
+  
+[![Chaitanya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chaitanya-030&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</p>
+
+---
+
+ <h2 align="center">📫 Reach out to me on</h2>
+<p align="center">
+    <a target="_blank"href="https://www.linkedin.com/in/chaitanya-sheth"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
