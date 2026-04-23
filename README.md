@@ -5,33 +5,33 @@
 </h3>
 
 ## **About Me:**
-I am a Final Year Student at DA-IICT. I am well versed with Problem Solving and an enthusiast for open source contribution. I keenly want to explore the domain other than problem solving and competitive programming and want to contribute in real world projects. I am familiar with technologies like MERN stack and well versed with relational and non-relational databases.
+Hey, I’m Chaitanya — 2025 passout undergraduate passionate about technology. Pursued a Bachelor's in Information and Communication Technology. I’m working as a Product Engineer at UnifyApps.
+
+I bring experience in programming languages like C, C++, and Java, along with strong problem-solving skills. My academic background includes core subjects such as Database Management Systems, Operating Systems, Computer Networking, and Object-Oriented Programming.
+
+Beyond coursework, I’ve explored Semantic Web technologies including RDF, SPARQL, and Apache Jena ARQ. I’m also engaged in research on optimizing energy efficiency in wireless sensor networks, with a paper accepted in the IEEE Sensors Journal.
+
+Let’s connect if we share similar interests and explore opportunities to collaborate on real-world challenges.
 
 
 ## 🧰 Languages and Tools
-<div align="justify">
-  <img src="https://skillicons.dev/icons?i=c" height="30" width="30" alt="C" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" width="30" alt="C++" /
-
-  <img src="https://skillicons.dev/icons?i=html" height="30" width="30" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" width="30" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" width="30" alt="JS" />
-
-  <img src="https://skillicons.dev/icons?i=react" height="30" width="30" alt="ReactJS" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" width="30" alt="NodeJS" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" width="30" alt="ExpressJS" />
-  
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" width="30" alt="Bootstrap" />
-  
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" width="30" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" width="30" alt="PostgreSQL" />
-
-  <img src="https://skillicons.dev/icons?i=git" height="30" width="30" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" width="30" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" width="30" alt="Postman" />
-
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" width="30" alt="VSC" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" width="30" alt="StackOverflow" />  
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://skillicons.dev/icons?i=c" height="40" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" />
 </div>
 
 ## 👨🏻‍💻 Coding Profiles
@@ -42,7 +42,3 @@ I am a Final Year Student at DA-IICT. I am well versed with Problem Solving and 
 
 ## 🤝 Connect with me
 <a href="https://linkedin.com/in/chaitanya-sheth" target="_blank"><img src="https://shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-
-
-
-
